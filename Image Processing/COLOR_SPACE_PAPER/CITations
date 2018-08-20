@@ -1,0 +1,34 @@
+1) http://ieeexplore.ieee.org/document/8204367/    MORPHOLOGICAL TRANSFORMATION
+2) http://ieeexplore.ieee.org/document/8036910/    CIE_LAB info
+3) http://ieeexplore.ieee.org/document/8081895/	Color Space Conversion(YUV)
+4) http://ieeexplore.ieee.org/document/7998816/	YCbCr
+5) http://ieeexplore.ieee.org/document/8280632/	HSV, Background Subtech
+6) http://ieeexplore.ieee.org/document/8275977/	LAB,HSV Info
+7) http://ieeexplore.ieee.org/document/7955266/	XYZ,LUV,Color SPace def
+8) http://ieeexplore.ieee.org/document/7952068/	Conversions, Color space def
+9) http://ieeexplore.ieee.org/document/8227415/	RGB info
+10)http://ieeexplore.ieee.org/document/8282062/	Real time Img_proc and obst avoid
+11) http://ieeexplore.ieee.org/document/7754419/	YUV info
+12) http://ieeexplore.ieee.org/document/6839288/	XYZ info
+
+"A uniform color space is color space that any change in the color coordinates leads to same size distinguishable changes in the visible color tones and saturation."	(13)http://ieeexplore.ieee.org/document/7960711/
+
+14) http://ieeexplore.ieee.org/document/7960711/	LUV info and conv
+
+**********************HSV**************************
+"The HSV color space consists of 3 elements represents the color, saturation describes the level of color dominance and the value represents the brightness level. Thus, this method suitable to detect the color and level of dominance and brightness."	15)http://ieeexplore.ieee.org/document/8319133/
+
+"Wan and Chen [13] prove the hue channel of hazy image is invariant under certain circumstances. This feature inspires us to recover hazy images by dealing with the brightness and the saturation."	   16) http://ieeexplore.ieee.org/document/8292899/
+**********************HSV**************************
+
+17) http://ieeexplore.ieee.org/document/7603032/	YCbCbr info and conv
+18) http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=7375244	Color space info
+
+
+
+
+
+
+
+
+
